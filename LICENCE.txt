@@ -1,0 +1,107 @@
+EXCLUSIVE INTELLECTUAL PROPERTY TRANSFER AGREEMENT
+Version 1.0 – 2025
+
+This Agreement ("Agreement") is made between:
+
+SELLER:
+Abhinav Raj
+Email: abhinav429912345@gmail.com
+
+BUYER:
+Name: ___________________________
+Email: ___________________________
+
+Governing Law: India
+
+---
+
+## 1. TRANSFER OF OWNERSHIP
+Upon completion of payment, the Seller hereby irrevocably transfers to the Buyer all intellectual property rights and ownership to the software asset known as:
+
+“CryptoPre13 – AI Cryptocurrency Prediction System” (“the Software”).
+
+The transfer includes, without limitation:
+- All source code  
+- Machine learning models  
+- Preprocessing pipelines & scalers  
+- UI components and dashboards  
+- Documentation and file structures  
+- System architecture  
+- Rights to modify, distribute, or commercialize  
+
+---
+
+## 2. RIGHTS GRANTED TO BUYER
+The Buyer receives:
+- Full and exclusive global ownership  
+- Rights to rebrand, resell, sublicense, or integrate  
+- Rights to modify or extend the system  
+- Rights to commercialize the Software or its derivatives  
+- Rights to file trademarks or patents relating to the Software  
+
+After transfer, the Seller retains **no rights** to the Software.
+
+---
+
+## 3. SELLER RESTRICTIONS
+After ownership transfer:
+- The Seller may not reuse or redistribute the Software  
+- The Seller may not republish or resell similar code  
+- The Seller may not claim authorship or ownership after transfer  
+- The Seller may not create derivative systems based on this code  
+
+---
+
+## 4. WARRANTY & LIABILITY
+The Software is provided “AS IS” without warranty of any kind.
+
+The Seller is not liable for:
+- Trading losses  
+- Financial outcomes  
+- Bugs, errors, or inaccuracies  
+- Any damages resulting from use  
+
+The Buyer assumes all responsibility.
+
+---
+
+## 5. PAYMENT TERMS
+Ownership is transferred only after full payment is received and confirmed.  
+No refunds will be issued once files are delivered.
+
+---
+
+## 6. CONFIDENTIALITY
+Both parties agree to keep source code, documentation, and proprietary information confidential unless mutually agreed otherwise.
+
+---
+
+## 7. GOVERNING LAW
+This Agreement shall be governed by and interpreted under the laws of India.
+
+---
+
+## 8. ACCEPTANCE
+This Agreement becomes effective when:
+- Payment is deposited in escrow, OR  
+- Buyer receives the Software files  
+
+By accepting delivery, the Buyer acknowledges full acceptance of this Agreement.
+
+---
+
+## 9. SIGNATURES
+
+SELLER:
+Name: Abhinav Raj  
+Signature: _______________________  
+Date: ____________________________
+
+BUYER:
+Name: ___________________________  
+Signature: _______________________  
+Date: ____________________________
+
+---
+
+END OF AGREEMENT
